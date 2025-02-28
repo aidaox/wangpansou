@@ -1,0 +1,9 @@
+/.svn
+/.vscode
+runtime
+vendor
+.idea
+.DS_Store
+.env
+/github
+README.md
